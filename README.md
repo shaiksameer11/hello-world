@@ -1,5 +1,7 @@
 # hello-world
-First Repository _________________________________p
 
-_________________________________________
-This is to learn how how branches work in Git that are derived from the master branch.
+Class HelloWorld {
+public static void main(String args[]) {
+System.out.println("Hello World");
+}
+}
